@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    movie_recommender (0.1.0)
+    movie_recommender (0.1.1)
       nokogiri
       require_all
 
@@ -49,4 +49,4 @@ DEPENDENCIES
   rubocop (~> 1.7)
 
 BUNDLED WITH
-   2.2.11
+   2.2.19
